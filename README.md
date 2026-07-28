@@ -1,40 +1,162 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=220&section=header&text=Antonio%20Gabriel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20Automation%20%E2%80%A2%20AI%20Engineering&descAlignY=55&descAlign=50" />
+<p><b>Language / Idioma:</b> <a href="#english">English</a> | <a href="#portugues">Português</a></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7F1D1D,100:DC2626&height=200&text=Antonio%20Gabriel&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=Data%20Analyst%20%E2%80%A2%20Automation%20%E2%80%A2%20AI%20Engineering%20%E2%80%A2%20BI&descAlignY=68&descAlign=50" />
+
+</div>
+
+<a name="english"></a>
+
+<div align="center">
 
 <a href="https://github.com/Antonio-byte10">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Antonio+%F0%9F%91%8B;Automa%C3%A7%C3%A3o+%2B+IA+aplicadas+a+dados;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+n8n;Estudando+ciberseguran%C3%A7a+no+tempo+livre" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=EF4444&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Automation+%7C+AI+Engineering;Turning+raw+data+into+decisions+with+BI+%26+Python;Building+AI-driven+automation+pipelines;Always+exploring+new+ways+to+connect+data+and+AI" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Antonio-byte10&color=1E3A8A&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://custom-icon-badges.demolab.com/github/followers/Antonio-byte10?color=1155ba&labelColor=0F172A&style=for-the-badge&logo=github&label=FOLLOWERS&logoColor=white" />
-
 <p>
-<a href="#-sobre-mim">Sobre mim</a> ·
-<a href="#-stack--ferramentas">Stack</a> ·
-<a href="#-em-que-estou-trabalhando">Projetos</a> ·
-<a href="#-ciberseguranca">Cibersegurança</a> ·
-<a href="#-estatisticas">Estatísticas</a> ·
-<a href="#-contato">Contato</a>
+<a href="#about">About</a> ·
+<a href="#stack--tools">Stack</a> ·
+<a href="#ai-study--exploration">AI Study</a> ·
+<a href="#current-projects">Projects</a> ·
+<a href="#cybersecurity">Cybersecurity</a> ·
+<a href="#contact">Contact</a>
 </p>
 
 </div>
 
+## 🇺🇸 English
+
+### About
+
+I work with **data analysis and process automation**, combining traditional data engineering (SQL, Power BI, DAX, Business Intelligence) with AI-driven solutions (Anthropic and Google APIs) to solve real operational problems — currently applied to the logistics industry.
+
+I hold a degree in **Systems Analysis and Development** and I'm currently pursuing a technologist degree in **Foreign Trade**. I also spend part of my time on branding/design projects.
+
+<table>
+<tr>
+  <td>💬</td>
+  <td><b>Currently learning</b></td>
+  <td>Advanced AI agent architectures, voice interfaces, and international data engineering certifications</td>
+</tr>
+<tr>
+  <td>🚀</td>
+  <td><b>Working on</b></td>
+  <td><a href="https://gvcompany.tech">GV Company</a> — AI-driven process automation for small and mid-sized businesses</td>
+</tr>
+<tr>
+  <td>🤝</td>
+  <td><b>Open to collaborate on</b></td>
+  <td>Workflow automation, AI API integrations, and data/BI projects</td>
+</tr>
+<tr>
+  <td>🌐</td>
+  <td><b>Personal site</b></td>
+  <td><a href="https://antoniovinas.me">antoniovinas.me</a></td>
+</tr>
+</table>
+
+### Stack & Tools
+
+<p>
+<img src="https://custom-icon-badges.demolab.com/badge/Python-DC2626?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/SQL-DC2626?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-DC2626?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/Business%20Intelligence-DC2626?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+<br/>
+<img src="https://custom-icon-badges.demolab.com/badge/DAX-DC2626?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/n8n-DC2626?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/Make.com-DC2626?style=for-the-badge&logo=automattic&logoColor=white" />
+<br/>
+<img src="https://custom-icon-badges.demolab.com/badge/Git-DC2626?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/Linux-DC2626?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/Webhooks-DC2626?style=for-the-badge&logo=webhook&logoColor=white" />
+</p>
+
+### AI Study & Exploration
+
+A big part of my current focus is hands-on study and experimentation with modern AI systems:
+
+- **Claude (Anthropic API)** — building automation and assistant architectures
+- **Gemini (Google API)** — comparative use cases and multimodal experiments
+- **Voice AI / speech interfaces** — exploring voice-driven interaction as a layer on top of automation pipelines
+- Continuous exploration of new AI tools and how they connect with data and BI workflows
+
+### Current Projects
+
+- **Operational reporting automation** — programmatic generation of presentations and dashboards from PostgreSQL data
+- **AI-powered customer service assistants** — architectures combining Claude, Gemini, and automation via n8n/Make.com
+- **Predictive scoring models for logistics** — risk scoring based on operational event history
+- **GV Company** — my own consulting brand for AI-driven process automation with a security layer, aimed at small and mid-sized businesses
+
+### Cybersecurity
+
+Alongside my main work, I actively study offensive security — reconnaissance, vulnerability assessment, and structured reporting — mostly on Linux.
+
+### Contact
+
+<table>
+<tr>
+  <td>📧</td>
+  <td><b>Email</b></td>
+  <td>contact@gvcompany.tech</td>
+</tr>
+<tr>
+  <td>💼</td>
+  <td><b>LinkedIn</b></td>
+  <td><a href="https://www.linkedin.com/in/antonio-gabriel-85a0a3243/">linkedin.com/in/antonio-gabriel-85a0a3243</a></td>
+</tr>
+<tr>
+  <td>🎨</td>
+  <td><b>Behance</b></td>
+  <td><a href="https://www.behance.net/antoniovinas">behance.net/antoniovinas</a></td>
+</tr>
+<tr>
+  <td>🌐</td>
+  <td><b>Personal site</b></td>
+  <td><a href="https://antoniovinas.me">antoniovinas.me</a></td>
+</tr>
+<tr>
+  <td>🏢</td>
+  <td><b>Company</b></td>
+  <td><a href="https://gvcompany.tech">gvcompany.tech</a></td>
+</tr>
+</table>
+
 ---
 
-### 👋 Sobre mim
+<a name="portugues"></a>
 
-Trabalho com **análise de dados e automação de processos**, unindo engenharia de dados tradicional (SQL, Power BI, DAX) a soluções orientadas por IA (APIs da Anthropic e Google) para resolver problemas reais de operação — hoje aplicado ao setor logístico.
+<div align="center">
 
-Formado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando o tecnólogo em **Comércio Exterior**, também dedico parte do tempo a estudos de cibersegurança e a projetos autorais de branding.
+<a href="https://github.com/Antonio-byte10">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=EF4444&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Automa%C3%A7%C3%A3o+%7C+AI+Engineering;Transformando+dados+brutos+em+decis%C3%B5es+com+BI+e+Python;Construindo+pipelines+de+automa%C3%A7%C3%A3o+com+IA;Sempre+explorando+novas+formas+de+conectar+dados+e+IA" alt="Typing SVG" />
+</a>
+
+<p>
+<a href="#sobre-mim">Sobre mim</a> ·
+<a href="#stack--ferramentas">Stack</a> ·
+<a href="#estudo-em-ia">Estudo em IA</a> ·
+<a href="#projetos-atuais">Projetos</a> ·
+<a href="#ciberseguranca">Cibersegurança</a> ·
+<a href="#contato">Contato</a>
+</p>
+
+</div>
+
+## 🇧🇷 Português
+
+### Sobre mim
+
+Trabalho com **análise de dados e automação de processos**, unindo engenharia de dados tradicional (SQL, Power BI, DAX, Business Intelligence) a soluções orientadas por IA (APIs da Anthropic e Google) para resolver problemas reais de operação — hoje aplicado ao setor logístico.
+
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso o tecnólogo em **Comércio Exterior**. Também dedico parte do meu tempo a projetos de branding/design.
 
 <table>
 <tr>
   <td>💬</td>
   <td><b>Aprendendo agora</b></td>
-  <td>Cibersegurança ofensiva (bug bounty) e certificações internacionais em engenharia de dados</td>
+  <td>Arquiteturas avançadas de agentes de IA, interfaces de voz e certificações internacionais em engenharia de dados</td>
 </tr>
 <tr>
   <td>🚀</td>
@@ -44,74 +166,53 @@ Formado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando o te
 <tr>
   <td>🤝</td>
   <td><b>Aberto a colaborar em</b></td>
-  <td>Automação de workflows, integrações com APIs de IA e projetos de dados</td>
+  <td>Automação de workflows, integrações com APIs de IA e projetos de dados/BI</td>
 </tr>
 <tr>
   <td>🌐</td>
-  <td><b>Site</b></td>
-  <td><a href="https://gvcompany.tech">gvcompany.tech</a></td>
+  <td><b>Site pessoal</b></td>
+  <td><a href="https://antoniovinas.me">antoniovinas.me</a></td>
 </tr>
 </table>
 
----
-
-### 🛠️ Stack & Ferramentas
+### Stack & Ferramentas
 
 <p>
-<img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://custom-icon-badges.demolab.com/badge/DAX-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/Python-DC2626?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/SQL-DC2626?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-DC2626?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/Business%20Intelligence-DC2626?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 <br/>
-<img src="https://custom-icon-badges.demolab.com/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://custom-icon-badges.demolab.com/badge/Make.com-6D00CC?style=for-the-badge&logo=automattic&logoColor=white" />
-<img src="https://custom-icon-badges.demolab.com/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://custom-icon-badges.demolab.com/badge/Gemini%20API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/DAX-DC2626?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/n8n-DC2626?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/Make.com-DC2626?style=for-the-badge&logo=automattic&logoColor=white" />
 <br/>
-<img src="https://custom-icon-badges.demolab.com/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://custom-icon-badges.demolab.com/badge/Webhooks-000000?style=for-the-badge&logo=webhook&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/Git-DC2626?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/Linux-DC2626?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://custom-icon-badges.demolab.com/badge/Webhooks-DC2626?style=for-the-badge&logo=webhook&logoColor=white" />
 </p>
 
----
+### Estudo em IA
 
-### 🚀 Em que estou trabalhando
+Uma parte importante do meu foco atual é o estudo prático e a experimentação com sistemas de IA modernos:
+
+- **Claude (API da Anthropic)** — construção de arquiteturas de automação e assistentes
+- **Gemini (API do Google)** — casos de uso comparativos e experimentos multimodais
+- **IA de voz / interfaces de fala** — explorando interação por voz como camada sobre pipelines de automação
+- Exploração contínua de novas ferramentas de IA e como elas se conectam a fluxos de dados e BI
+
+### Projetos atuais
 
 - **Automação de relatórios operacionais** — geração programática de apresentações e dashboards a partir de dados em PostgreSQL
 - **Assistentes de atendimento com IA** — arquiteturas combinando Claude, Gemini e automações via n8n/Make.com
 - **Modelos preditivos aplicados à logística** — scoring de risco a partir de histórico de eventos operacionais
-- **GV Company** — consultoria própria de automação de processos com camada de segurança para pequenas e médias empresas
+- **GV Company** — minha própria marca de consultoria em automação de processos com IA e camada de segurança, voltada para pequenas e médias empresas
 
----
+### Cibersegurança
 
-### 🔐 Cibersegurança
+Além do meu trabalho principal, estudo ativamente segurança ofensiva — reconhecimento, avaliação de vulnerabilidades e reporte estruturado — majoritariamente em Linux.
 
-Estudo ativo em segurança ofensiva, com prática em plataformas e metodologia estruturada de reconhecimento e reporte.
-
-<p>
-<img src="https://custom-icon-badges.demolab.com/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
-<img src="https://custom-icon-badges.demolab.com/badge/Intigriti-Bug%20Bounty-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://custom-icon-badges.demolab.com/badge/ProjectDiscovery-FF6C2C?style=for-the-badge&logo=nmap&logoColor=white" />
-</p>
-
----
-
-### 📊 Estatísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Antonio-byte10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-byte10&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Antonio-byte10&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-### 📬 Contato
+### Contato
 
 <table>
 <tr>
@@ -141,6 +242,6 @@ Estudo ativo em segurança ofensiva, com prática em plataformas e metodologia e
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0F172A&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,100:7F1D1D&height=100" />
 
 </div>
